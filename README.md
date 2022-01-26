@@ -1,4 +1,5 @@
 ### Hi there 👋
+I am Ziroc, a long time software developer. I have a lot of personal projects, but I'm a little too shy to share them with the world. But still you can see some of them here.
 
 ![ziroc's GitHub stats](https://github-readme-stats.vercel.app/api?username=ziroc&count_private=true&show_icons=true&theme=dark)
 
